@@ -3,6 +3,7 @@
 # then add in what we want
 !README.md
 !.gitignore
+!requirements.txt
 !notebooks
 !notebooks/**
 notebooks/*.DS_Store
